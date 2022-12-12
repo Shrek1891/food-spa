@@ -1,5 +1,5 @@
 # food-spa
-SPA React recipes app based on API https://www.themealdb.com/
+SPA React recipes app based on API https://www.themealdb.com/ <br/>
 You can look at recipes , how it cooks and even look video of recipes
 clone repository from git -
 git clone git clone https://github.com/Shrek1891/food-spa.git
